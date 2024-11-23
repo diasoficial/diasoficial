@@ -11,4 +11,4 @@ Sou desenvolvedor WEB e apaixonado por tecnologia.
 - Designer
 
 ## 📫 Entre em contato
-[![LinkedIn] (https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/gabrieldias-/)
+https://www.linkedin.com/in/gabrieldias-/
