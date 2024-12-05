@@ -14,6 +14,7 @@ Sou desenvolvedor WEB e apaixonado por tecnologia.
 <a href="https://www.linkedin.com/in/gabrieldias-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/_diasoficial/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+Commits diarios, só não estão sendo calculados.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasoficial&layout=compact)
