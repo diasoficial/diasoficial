@@ -1,6 +1,6 @@
 # Olá, sou o Gabriel Dias 👨🏽‍💻
 
-Sou desenvolvedor Web e Mobile iniciante e apaixonado por tecnologia.
+Aprendiz em desenvolvimento mobile e apaixonado por tecnologia.
 ### 👀 Estou buscando uma vaga no momento 👀
 
 ## 📚 Estudando
