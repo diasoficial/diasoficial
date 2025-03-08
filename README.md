@@ -1,10 +1,9 @@
 # Olá, sou o Gabriel Dias 👨🏽‍💻
 
 Aprendiz em desenvolvimento mobile e apaixonado por tecnologia.
-### 👀 Estou buscando uma vaga no momento 👀
+### 👀 Estou em busca de uma vaga no momento 👀
 
 ## 📚 Estudando
-- Desenvolvimento WEB (HTML e CSS)
 - Desenvolvimento Android (Kotlin)
 
 ## ⚡ Habilidades
